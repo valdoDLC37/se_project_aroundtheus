@@ -2,6 +2,7 @@
 
 This is the third project of the Software Engineering program at TripleTen. It was created using HTML and CSS, based on the Figma design.
 
+Live Site
 (https://valdodlc37.github.io/se_project_aroundtheus/)
 
 Link to google drive of virdeo presentation

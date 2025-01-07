@@ -7,8 +7,8 @@
   bottom: 0;
   z-index: 999999;
   padding: 0 19px;
-  display: flex;
-  /* display: none; */
+  /* display: flex; */
+  display: none;
 }
 
 .modal__opened {
@@ -79,6 +79,12 @@
   background-color: transparent;
   background-repeat: no-repeat;
   background-size: contain;
+  cursor: pointer;
+}
+
+.modal__close:hover {
+  opacity: 60%;
+  transition: opacity 0.3s;
 }
 
 @media screen and (max-width: 620px) {
@@ -107,3 +113,4 @@
     max-height: 46px;
   }
 }
+
